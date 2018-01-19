@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "sourcefetch:fetch"
+    "cmd-i": "sourcefetch:fetch",
+    "ctrl-i": "sourcefetch:fetch"
   }
 }
